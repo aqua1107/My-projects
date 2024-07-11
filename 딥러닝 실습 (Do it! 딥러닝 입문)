@@ -95,4 +95,4 @@ plt.plot([pt1[0], pt2[0]], [pt1[1], pt2[1]])
 plt.xlabel('x')
 plt.ylabel('y')
 plt.show()
-#이상 딥러닝 당뇨병 데이터를 활용한다
+#이상 딥러닝 당뇨병 데이터를 이용한 실습이었습니다.
