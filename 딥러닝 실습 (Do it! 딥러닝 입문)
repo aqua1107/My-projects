@@ -64,7 +64,7 @@ plt.plot([pt1[0], pt2[0]], [pt1[1], pt2[1]])
 plt.xlabel('x')
 plt.ylabel('y')
 plt.show()
-#딥러닝 실습인 만큼 class함수를 이용하여 hidden layer를 만들어 정확도를 높여보자
+#딥러닝 실습인 만큼 class함수를 이용하여 선형회귀의 신경망의 작동원리를 알아보자.
 class Neuron:
     def __init__(self):
         self.w = 1.0
